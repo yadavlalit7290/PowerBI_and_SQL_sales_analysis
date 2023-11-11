@@ -1,4 +1,4 @@
-# PowerBI_and_SQL_sales_analysis
+## Pizza Sales analysis by Power Bi and SQl
 
 Developed a Pizza Sales Dashboard using SQL, Python, and Power BI to analyze key performance indicators (KPIs) such as maximum profit, total sales, and popular pizza toppings. The dashboard provides valuable insights for pizza businesses to improve sales and profitability.
 
